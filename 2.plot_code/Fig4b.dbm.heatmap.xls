@@ -1,0 +1,8 @@
+Cluster	Neurons	Oligodendrocytes	OPCs	Microglia	Fibroblasts	Endothelial_cells	Astrocytes
+Neurons	15	9	16	2	16	8	8
+Oligodendrocytes	5	7	5	2	0	0	1
+OPCs	16	5	13	2	9	8	9
+Microglia	1	1	3	1	0	1	1
+Fibroblasts	0	1	2	1	1	0	0
+Endothelial_cells	2	2	3	1	7	5	2
+Astrocytes	6	2	8	3	2	4	6
